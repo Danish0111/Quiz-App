@@ -26,7 +26,7 @@ A dynamic quiz application where users can answer multiple-choice questions and 
 
 2. Navigate to the project directory:
     ```bash
-    cd quiz-app
+    cd my-app
     ```
 
 3. Install dependencies:
